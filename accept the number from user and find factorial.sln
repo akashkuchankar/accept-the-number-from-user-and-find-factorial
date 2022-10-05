@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "accept the number from user and find factorial", "accept the number from user and find factorial\accept the number from user and find factorial.csproj", "{57E25B3A-7BD2-4A24-9047-24EBBE62B4FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57E25B3A-7BD2-4A24-9047-24EBBE62B4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E25B3A-7BD2-4A24-9047-24EBBE62B4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E25B3A-7BD2-4A24-9047-24EBBE62B4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E25B3A-7BD2-4A24-9047-24EBBE62B4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90EA8B44-7A36-43BF-A6F0-185A425D1565}
+	EndGlobalSection
+EndGlobal
